@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Live Link[Landing Page](https://landing-page-mrn.vercel.app).
+## Live Link[Landing Page](https://landing-page-mrn.vercel.app).
 
 
 ## Available Scripts
